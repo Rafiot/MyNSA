@@ -7,12 +7,12 @@ Having an easy way to monitor the network connections of one computer or a very 
 Architecture
 ============
 
-                      Soekris <---> Desktop
-                        ^  ^
-                        |  |
-                       RX  TX
-                        |  |
-Computer <---> Throwing Star LAN Tap <---> Internet
+                          Soekris <---> Desktop
+                            ^  ^
+                            |  |
+                           RX  TX
+                            |  |
+    Computer <---> Throwing Star LAN Tap <---> Internet
 
 
 The Throwing Star is a "passive Ethernet tap, requiring no power for operation".
